@@ -2,6 +2,9 @@ package ui;
 
 public class Main{
 
-    System.out.println("Hola mundo");
+    public static void main(String[] args){
+        System.out.println("Hola mundo");
+    }
+    
 
 }
